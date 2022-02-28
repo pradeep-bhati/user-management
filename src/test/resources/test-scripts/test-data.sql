@@ -1,0 +1,2 @@
+INSERT INTO user (user_name, account_non_expired, account_non_locked, credentials_non_expired,enabled,first_name,last_name,mail_id,password)
+VALUES ('voot', true, true, true, true, 'pradeep', 'bhati', 'er.pradeep47@gmail.com','$2a$10$QJOu0/F6bGjdvnRVDPCfpuHdI41oSUxoVBVVRsEGsn.ZHZwsAZAie');
